@@ -17,4 +17,4 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - SQLite
 - Nunjucks
 
-## Lucas Nascimento
+### Lucas Nascimento
